@@ -1,2 +1,3 @@
+include ':mypermissionlibrary'
 include ':app'
 rootProject.name = "PermissionX"
